@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Printinh Library - Use Different Brick Types
+# Printing Library - Use Different Brick Types
 
 The following example demonstrates how to use bricks of different types to display different kinds of information in a report.
 
